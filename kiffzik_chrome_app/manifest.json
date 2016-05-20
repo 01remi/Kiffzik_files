@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "update_url":"http://clients2.google.com/service/update2/crx",
+  "name": "Kiffzik",
+  "description": "Enjoy your music.Listen to music anywhere, anytime with kiffzik.Maintain your own music library and share your passion with others.",
+  "version": "2",
+  "options_page": "http://www.kiffzik.com/kiffzik/",
+  "app": {
+    "urls": [
+      "http://www.kiffzik.com/kiffzik/"
+    ],
+    "launch": {
+      "web_url": "http://www.kiffzik.com/kiffzik/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  },
+  "permissions": []
+}
